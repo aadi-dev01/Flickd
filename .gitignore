@@ -28,4 +28,8 @@ wheels/
 .vscode/
 .idea/
 *.swp
-*.swo 
+*.swo
+
+# Project specific
+frames/*
+!frames/detections.json 
